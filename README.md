@@ -36,7 +36,7 @@ In order to analyze and evaluate the data we are employing the CRISP-DM process:
 - Data Preparation - we have cleaned the data by dropping features, by imputing values, and by converting categorical into numerical data from the original data set
 - Modelling - we have modelled the classification and prediction questions with a KMeans classifier and a random forest classifier 
 - Evaluation - we have evaluated the resuling models. For the KMeans classifier, we have used the Silhouette score, for the random forest classifier, we have used the accuracy score
-- Deployment - we have discussed the findings as a final report in a medium blog post [here]().
+- Deployment - we have discussed the findings as a final report in a medium blog post [here](https://dominiksieber.medium.com/how-effective-are-starbucks-app-offers-6f7b13dd5f36).
 
 ## File Descriptions <a name="files"></a>
 
@@ -48,7 +48,7 @@ The data can be foudn under the subfolder `data`. All images created by the jupy
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://dominiksieber.medium.com/how-effective-are-starbucks-app-offers-6f7b13dd5f36).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
